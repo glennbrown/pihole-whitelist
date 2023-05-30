@@ -3,3 +3,4 @@ www.googletagservices.com
 analytics.plex.tv
 adservice.google.com
 trk.klclick.com
+thirdparty.bnc.lt
