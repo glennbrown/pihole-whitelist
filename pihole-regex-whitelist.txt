@@ -2,3 +2,4 @@
 (\.|^)dartsearch\.net$
 (\.|^)wegmans\.com$
 (\.|^)redditmail\.com$
+(\.|^)googleapis\.com$
